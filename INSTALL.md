@@ -24,6 +24,7 @@ Rofi uses autotools (GNU Build system), for more information see
 * libpangocairo
 * libcairo
 * libcairo-xcb
+* libcheck >= 0.11.0
 * libglib2.0 >= 2.40
   * gmodule-2.0
   * gio-unix-2.0
